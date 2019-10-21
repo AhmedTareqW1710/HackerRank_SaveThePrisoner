@@ -16,11 +16,11 @@ m: an integer, the number of sweets
 s: an integer, the chair number to begin passing out sweets from
 Input Format
 
-The first line contains an integer, , denoting the number of test cases.
-The next  lines each contain  space-separated integers:
-- : the number of prisoners
-- : the number of sweets
-- : the chair number to start passing out treats at
+The first line contains an integer, t , denoting the number of test cases.
+The next t lines each contain  space-separated integers:
+- n: the number of prisoners
+- m: the number of sweets
+- s: the chair number to start passing out treats at
 
 Constraints
 
